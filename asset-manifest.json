@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amitreact/static/css/main.e6c13ad2.css",
+    "main.js": "/amitreact/static/js/main.42cb8134.js",
+    "static/js/787.0d857c0d.chunk.js": "/amitreact/static/js/787.0d857c0d.chunk.js",
+    "index.html": "/amitreact/index.html",
+    "main.e6c13ad2.css.map": "/amitreact/static/css/main.e6c13ad2.css.map",
+    "main.42cb8134.js.map": "/amitreact/static/js/main.42cb8134.js.map",
+    "787.0d857c0d.chunk.js.map": "/amitreact/static/js/787.0d857c0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.42cb8134.js"
+  ]
+}
